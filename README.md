@@ -30,5 +30,14 @@ Repositório dedicado aos exercícios do curso [Big Data Analytis with Scala and
 * **Descrição:** O objetivo geral desta tarefa é implementar um algoritmo k-means distribuído que agrupa as postagens na plataforma do StackOverflow de acordo com sua pontuação. Além disso, esse agrupamento deve ser executado em paralelo para diferentes linguagens de programação e o resultados devem ser comparados.
 * **Nota:** 10/10
 
+### [Exercício Prático: Time Usage](https://github.com/vvalcristina/Coursera-Spark-Scala/tree/main/timeusage)
+
+* **Semana :** 4
+* **Exercício:** Manipulações de dados com Spark
+* **Descrição:** O objetivo geral desta tarefa manipular dados de um dataset de Time Usage para calcular o número de horas gastas em cada atividade (atividades básicas, trabalho e outros) agrupados por situação de trabalho, sexo e idade.
+* **Nota:** 08/10
+
+
+
 [Big Data Analytis with Scala and Spark]:https://www.coursera.org/learn/scala-spark-big-data
 
