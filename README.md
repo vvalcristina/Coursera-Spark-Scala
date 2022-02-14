@@ -37,7 +37,9 @@ Repositório dedicado aos exercícios do curso [Big Data Analytis with Scala and
 * **Descrição:** O objetivo geral desta tarefa manipular dados de um dataset de Time Usage para calcular o número de horas gastas em cada atividade (atividades básicas, trabalho e outros) agrupados por situação de trabalho, sexo e idade.
 * **Nota:** 08/10
 
+## Certificado
 
+![](Certificado.png)
 
 [Big Data Analytis with Scala and Spark]:https://www.coursera.org/learn/scala-spark-big-data
 
